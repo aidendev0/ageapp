@@ -1,6 +1,6 @@
 #!/bin/bash
 
-ARCHIVE_URL="https://github.com/lobotomydev/ageapp/releases/download/1.0.0/ageapp.tar.gz"
+ARCHIVE_URL="https://github.com/aidendev0/ageapp/releases/download/1.0.0/ageapp.tar.gz"
 ARCHIVE_NAME="ageapp.tar.gz"
 UNPACK_DIR="ageapp"
 
